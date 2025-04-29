@@ -7,6 +7,7 @@
   "logoUrl": "https://app.tribefii.com/Images/tribefii250x250.png",
   "description": "Connect your custom domain or subdomain to your Tribefii microsite. This setup includes both A and CNAME records.",
   "warnPhishing": true,
+  "syncPubKeyDomain": "app.tribefii.com",
   "records": [
     {
       "type": "A",
